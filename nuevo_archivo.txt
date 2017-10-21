@@ -1,1 +1,2 @@
 estoy editando el nuevo archivo de master
+desarrollo realizado con normalidad
